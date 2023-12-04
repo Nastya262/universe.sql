@@ -1,5 +1,3 @@
-# universe.sql
---
 -- PostgreSQL database dump
 --
 
